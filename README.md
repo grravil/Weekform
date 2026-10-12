@@ -23,7 +23,7 @@ Weekform is published only here, as an APK.
 2. Allow installs from your browser or file manager once. Play Protect may warn about an unknown developer; that is normal for apps outside a store.
 3. In intervals.icu, open Settings, copy your API key and paste it into Weekform. Or try it first with sample data.
 
-**Updates:** the app checks this page once a day and tells you when a new version is out. You can also add this repository to [Obtainium](https://github.com/ImranR98/Obtainium).
+**Updates:** the app checks this page once a day, tells you when a new version is out, and installs it when you tap Update. You can also add this repository to [Obtainium](https://github.com/ImranR98/Obtainium).
 
 ## What it does
 
@@ -55,6 +55,6 @@ Android-приложение для тех, кто тренируется с [in
 2. Один раз разрешите установку из браузера или файлового менеджера. Play Защита может предупредить о неизвестном разработчике — для приложений не из магазина это обычно.
 3. В intervals.icu откройте настройки, скопируйте API-ключ и вставьте его в Weekform. Можно сначала попробовать на примере.
 
-**Обновления:** приложение раз в день проверяет эту страницу и сообщает о новой версии. Можно также добавить репозиторий в Obtainium.
+**Обновления:** приложение раз в день проверяет эту страницу, сообщает о новой версии и ставит её по кнопке «Обновить». Можно также добавить репозиторий в Obtainium.
 
 **Отзывы и ошибки:** [создайте issue](../../issues) — можно по-русски. Исходный код закрыт; здесь лежат релизы, сайт и обсуждения.
